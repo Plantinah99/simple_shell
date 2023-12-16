@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- * @ac: arg count
+ * @ac: count of arguments
  * @av: arg vector
  *
  * Return: 0 on success, 1 on error
